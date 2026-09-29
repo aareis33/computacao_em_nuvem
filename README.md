@@ -44,4 +44,4 @@ docker-compose.yml   serviços: app e db (volume nomeado + healthcheck)
 ## Autores
 
 - Alexandre 
-- Nome 2
+- guilherme
